@@ -1,0 +1,14 @@
+.remark-slide-content:after {
+    content: "bit.ly/dc-spatial • @CivicAngela";
+    position: absolute;
+    bottom: 5px;
+    left: 35px;
+    height: 40px;
+    width: 310px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img {
+  max-width: 100%;
+  max-height: 100%;
+}
