@@ -8,6 +8,14 @@ Below are the slides from the talk. The shortlink to the slides is [bit.ly/dc-sp
 
 [![](README_files/figure-markdown_github/unnamed-chunk-1-1.png)](https://angela-li.github.io/slides/2018-11-08/dc-r-presentation#1)
 
+Packages Used:
+--------------
+
+-   [`sf`](https://r-spatial.github.io/sf/index.html)
+-   [`leaflet`](https://rstudio.github.io/leaflet/)
+-   [`tmap`](https://github.com/mtennekes/tmap)
+-   [`tidycensus`](https://walkerke.github.io/tidycensus/index.html)
+
 References
 ----------
 

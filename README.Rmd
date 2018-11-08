@@ -16,6 +16,13 @@ Below are the slides from the talk. The shortlink to the slides is [bit.ly/dc-sp
 knitr::include_url('https://angela-li.github.io/slides/2018-11-08/dc-r-presentation#1')
 ```
 
+## Packages Used
+
+- [`sf`](https://r-spatial.github.io/sf/index.html)
+- [`leaflet`](https://rstudio.github.io/leaflet/)
+- [`tmap`](https://github.com/mtennekes/tmap)
+- [`tidycensus`](https://walkerke.github.io/tidycensus/index.html)
+
 ## References
 Thanks to [Garrick Aden-Buie](https://github.com/gadenbuie) for the [`xaringanthemer`](https://github.com/gadenbuie/xaringanthemer) package. 
 
